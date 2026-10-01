@@ -1,0 +1,63 @@
+body{
+    font-family: 'Prompt', sans-serif;
+}
+.ms-text-gray{
+    color: rgb(83, 83, 83);
+}
+.ms-red{
+    color: #dc3545;
+}
+.div1{
+    height: 80px;
+    position: relative;
+}
+.ms-title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 30px;
+    font-weight: bold;
+    border: solid 2px rgb(219, 219, 219);
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    width: 90%;
+}
+.logo{
+    height: 40px;
+}
+.ms-card1{
+    padding: 20px 0 20px 0;
+}
+.ms-card1 h1{
+    font-size: 40px;
+}
+.ms-card1 p{
+    width: 80%;
+    margin-left: 10%;
+}
+.ms-card1-conner{
+    border-top: 60px solid #dc3545;
+	border-left: 0px solid transparent;
+	border-right: 60px solid transparent;
+	height: 0;
+	width: 80px;
+}
+.ms-tel{
+    margin-top: 15px;
+    display: inline-block;
+}
+.line-link{
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.line-logo{
+    width:30px;
+    
+}
+.ms-footer{
+    height: 50px;
+    margin-top: 20px;
+}
+
